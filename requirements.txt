@@ -1,5 +1,4 @@
 Flask 
-flask-restx
 flask-sqlalchemy
 werkzeug
 python-dotenv
@@ -8,3 +7,12 @@ streamlit
 reportlab
 pandas
 matplotlib
+flask_cors
+# For testing
+flasgger
+
+#for database connection
+flask_migrate
+
+# for authentication
+flask_jwt_extended
